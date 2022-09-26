@@ -1,0 +1,68 @@
+.cutomizenav{
+
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  
+}
+
+.wrap1{
+    
+    text-align: center;
+    
+
+    align-items: center;
+    height: 500px;
+}
+
+.wrap1 h2{
+    font-size: 35px;
+}
+
+/* Wrap2 start */
+
+
+.Wrap2{
+
+    background: url("../Img/crop1.jpg");
+
+   background-size: cover;
+
+   background-position-x: right;
+   
+   
+
+
+    text-align: -webkit-right;
+
+     padding: 107px;
+    
+}
+
+.wrap2pad{
+    padding-top: 60px;
+
+    text-align: left; 
+
+}
+
+/*  Wrap4 Starting */
+
+.Wrap4{
+    background: url("../Img/newsrvicebg.png");
+    background-size: cover;
+
+    
+
+    
+}
+
+.icons h1{
+
+    font-size: 75px;
+}
